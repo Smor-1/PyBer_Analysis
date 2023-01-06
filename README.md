@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-The purpose of this new analysis was to analyze PyBer data to uncover trends to support decision-makers at PyBer. More specifically, this particular analysis was undertaken to calculate the sum of total weekly fares between rural, suburban and urban city types. The goal was to determine if there were any differences in these values, which could then be used to make informed decisions. 
+The purpose of this new analysis was to analyze PyBer data to uncover trends to support decision-makers at PyBer. More specifically, this particular analysis was undertaken to address disparities between city types (urban, rural and suburban) in terms of driver number, total rides and total fares generated.The end goal was to determine if there were any differences in these values, which could then be used to make informed decisions to allocate resources most effectively. 
 
 
 ## Results
